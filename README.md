@@ -1,7 +1,5 @@
 # Hey, I'm @Mxtiv 👋
 
-Welcome to my corner of GitHub! Here's a bit about me:
-
 ---
 
 ## 🎯 What I'm Into
@@ -13,23 +11,20 @@ Welcome to my corner of GitHub! Here's a bit about me:
 
 ---
 
-## 🚀 What I'm Working On
-- Building **desktop apps with C#**
-- Sharpening my **problem-solving** and algorithmic thinking
+## 🛠️ Tech Stack & Tools
+- **Languages**: C++, React, JavaScript
+- **Technologies**: .NET, WPF, SQLite, ESP32, Arduino  
+- **Tools**: Visual Studio, Arduino IDE, Git, Figma, Kali Linux, Wireshark 
+- **Other**: Windows Terminal
 
 ---
 
-## 🤝 Let's Connect
-I’m always up for collaborating on cool projects, especially those that push my limits and teach me something new.
+## 🌐 Find Me Online
 
-- 📬 Email: [cielenmateusz01@gmail.com](mailto:cielenmateusz01@gmail.com)  
-- 📷 Instagram: [@matthewcalf](https://instagram.com/matthewcalf)
-
----
-
-## ⚡ Quick Fact
-When I’m not coding or training, you’ll probably find me sketching, reading or learning about ethical hacking. I like staying sharp — both mentally and physically.
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-Mxtiv-181717?style=flat&logo=github)](https://github.com/Mxtiv)
+[![Email](https://img.shields.io/badge/email-cielenmateusz01%40gmail.com-red?style=flat&logo=gmail)](mailto:cielenmateusz01@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/matthewcalf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthewcalf/)
+[![Instagram](https://img.shields.io/badge/Instagram-@matthewcalf-E4405F?style=flat&logo=instagram)](https://instagram.com/matthewcalf)
 
 Thanks for stopping by! 🙌
