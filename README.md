@@ -22,6 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthewcalf/)
 [![Instagram](https://img.shields.io/badge/Instagram-@matthewcalf-E4405F?style=flat&logo=instagram)](https://instagram.com/matthewcalf)
 OR
-[![Instagram](https://img.shields.io/badge/Instagram-@cielenmateusz-E4405F?style=flat&logo=instagram)](https://instagram.com/cielenmateusz)
+[![Instagram](https://img.shields.io/badge/Instagram-@cielenmateusz-E4405F?style=flat&logo=instagram)](https://instagram.com/cielenmateusz)(Personal)
 
 Thanks for stopping by! 🙌
