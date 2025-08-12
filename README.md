@@ -20,5 +20,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/matthewcalf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthewcalf/)
 [![Instagram](https://img.shields.io/badge/Instagram-@matthewcalf-E4405F?style=flat&logo=instagram)](https://instagram.com/matthewcalf)
+[![Instagram](https://img.shields.io/badge/Instagram-@matthewcalf-E4405F?style=flat&logo=instagram)](https://instagram.com/cielenmateusz)
 
 Thanks for stopping by! 🙌
